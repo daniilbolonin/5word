@@ -18,7 +18,7 @@ export default function Home() {
           И
         </div>
         <div className={styles.word_ione}>
-          Н
+          Нн
         </div>
       </div>
       <div className={styles.word}>
